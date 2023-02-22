@@ -16,6 +16,15 @@ a calendar file.
 
 ## Usage
 
+- Go to `scrape.py`
+
+```
+studentNumber.send_keys('REDACTED')
+studentPassword.send_keys('REDACTED')
+```
+
+Change `REDACTED` to your secrets
+
 - You have to have python installed
 
 ### Install Requirements
